@@ -1,0 +1,9 @@
+{
+    "path" : "~/Projects/australia-trip-route",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

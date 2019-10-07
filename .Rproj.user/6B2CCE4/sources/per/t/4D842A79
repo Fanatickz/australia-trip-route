@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1567497774929.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "377827556",
+    "id" : "4D842A79",
+    "lastKnownWriteTime" : 1569857203,
+    "last_content_update" : 1569857203924,
+    "path" : "~/Projects/australia-trip-route/create_maps_v2.R",
+    "project_path" : "create_maps_v2.R",
+    "properties" : {
+        "cursorPosition" : "53,2",
+        "scrollLine" : "44",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
